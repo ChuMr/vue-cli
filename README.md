@@ -1,4 +1,4 @@
-# y
+# y 自己搭建脚手架
 
 > A Vue.js project
 
